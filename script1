@@ -1,0 +1,8 @@
+show
+info
+execute_script script2
+execute_script script1
+execute_script script2
+execute_script script1
+execute_script script1
+reorder
