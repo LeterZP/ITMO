@@ -1,0 +1,17 @@
+INSERT INTO star_collision(human, star_name, collision_time) VALUES (574212, 'R136a1', TIMESTAMP '2001-10-12 14:16:49');
+INSERT INTO star_collision(human, star_name, collision_time) VALUES (012325, 'R136c', TIMESTAMP '2020-12-27 04:02:18');
+INSERT INTO star_collision(human, star_name, collision_time) VALUES (147012, 'Orionis C', TIMESTAMP '2001-07-08 21:16:14');
+INSERT INTO star_collision(human, star_name, collision_time) VALUES (962459, 'Orionis A', TIMESTAMP '2004-05-10 16:47:29');
+INSERT INTO star_collision(human, star_name, collision_time) VALUES (574212, 'R136a1', TIMESTAMP '2001-10-13 01:27:28');
+INSERT INTO star_collision(human, star_name, collision_time) VALUES (962459, 'R136a1', TIMESTAMP '2004-05-10 18:49:31');
+INSERT INTO star_collision(human, star_name, collision_time) VALUES (012325, 'Orionis C', TIMESTAMP '2020-12-28 17:46:09');
+INSERT INTO star_collision(human, star_name, collision_time) VALUES (147012, 'Orionis C', TIMESTAMP '2014-07-08 21:16:14');
+INSERT INTO star_collision(human, star_name, collision_time) VALUES (574212, 'Orionis C', TIMESTAMP '2001-10-17 15:16:37');
+INSERT INTO star_collision(human, star_name, collision_time) VALUES (574212, '2MASS J05352184–0546085', TIMESTAMP '2001-10-18 03:17:30');
+INSERT INTO star_collision(human, star_name, collision_time) VALUES (012325, 'Orionis A', TIMESTAMP '2020-12-28 23:11:32');
+INSERT INTO star_collision(human, star_name, collision_time) VALUES (962459, 'R136c', TIMESTAMP '2010-05-10 20:51:33');
+INSERT INTO star_collision(human, star_name, collision_time) VALUES (147012, 'Orionis C', TIMESTAMP '2012-07-08 21:16:14');
+INSERT INTO star_collision(human, star_name, collision_time) VALUES (574212, 'R136a1', TIMESTAMP '2001-10-18 22:09:29');
+INSERT INTO star_collision(human, star_name, collision_time) VALUES (962459, 'R136c', TIMESTAMP '2004-05-10 22:53:35');
+INSERT INTO star_collision(human, star_name, collision_time) VALUES (012325, 'Orionis C', TIMESTAMP '2023-12-29 00:00:14');
+INSERT INTO star_collision(human, star_name, collision_time) VALUES (574212, 'R136a1', TIMESTAMP '2001-10-19 00:00:00');
