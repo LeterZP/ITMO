@@ -1,0 +1,16 @@
+group = 'com.leterzp.prog.server'
+version = '2.0'
+
+dependencies {
+    implementation project(':general')
+}
+
+apply plugin: 'com.gradleup.shadow'
+
+shadowJar {
+    archiveBaseName.set('ProgLab6.server')
+    archiveVersion.set('2.0')
+    manifest {
+        attributes 'Main-Class': 'ServerKt'
+    }
+}
